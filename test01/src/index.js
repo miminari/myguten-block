@@ -1,6 +1,6 @@
-import { registerBlockType } from '@wordpress/bloccks';
+import { registerBlockType } from '@wordpress/blocks';
 
-registerBlockType( 'myguten/test-block', {
+registerBlockType( 'my-blocks/test-block-01', {
     title: 'Basic Example',
     icon: 'smiley',
     category: 'layout',
