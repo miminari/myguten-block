@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('wp-bloccks', 'wp-element', 'wp-polyfill'), 'version' => 'aded1b8429fd061a11f203223a5e1889');
